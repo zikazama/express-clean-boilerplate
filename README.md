@@ -16,39 +16,39 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 You need to have the following installed:
 
-\`\`\`
+```
 Node.js
 npm or yarn
 TypeScript
-\`\`\`
+```
 
 ### Installing
 
 To set up your development environment, follow these steps:
 
 1. Clone the repository:
-\`\`\`
+```
 git clone https://github.com/zikazama/express-clean-boilerplate
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`
+```
 npm install
-\`\`\` or \`\`\`
+``` or ```
 yarn install
-\`\`\`
+```
 
 3. Compile TypeScript to JavaScript:
-\`\`\`
+```
 tsc
-\`\`\`
+```
 
 4. Start the server:
-\`\`\`
+```
 npm run start
-\`\`\` or \`\`\`
+``` or ```
 yarn start
-\`\`\`
+```
 
 ## Usage
 
